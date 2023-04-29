@@ -36,7 +36,6 @@ client.on('message', async (message) => {
 
 client.initialize();
 
-module.exports = app
 
 
 // var resFetch = await fetch('https://s3.amazonaws.com/dolartoday/data.json')
